@@ -61,8 +61,3 @@ This project builds on the experimental data to determine the most effective mes
 
 - `pentathlon-project.ipynb`: Main notebook containing the full analysis
 
----
-
-## Notes
-
-This repository is a cleaned and simplified version of a course project for portfolio purposes. Some original data or materials may not be included.
